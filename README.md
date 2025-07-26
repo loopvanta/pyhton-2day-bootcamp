@@ -1,4 +1,4 @@
-# 🐍 Python in 2 Days 🚀
+# 🐍 Python in 3 Days 🚀
 
 Hi, I'm learning Python via CodeWithHarry's 10-Hour Course — and doing it in just **2 days!**
 
@@ -13,8 +13,9 @@ Hi, I'm learning Python via CodeWithHarry's 10-Hour Course — and doing it in j
 Challenge myself, build consistency, and level up my GitHub!
 
 ## 📂 Folders:
-- `Day-1`: Basics, Loops, Functions
-- `Day-2`: OOP, File I/O, Final Project
+- `Day-1`: Basics
+- `Day-2`: Loops, Functions
+- `Day-3`: OOP, File I/O, Final Project
 
 ## 🧠 Lessons Learned:
 Documenting as I go! Check the code, try the exercises!
